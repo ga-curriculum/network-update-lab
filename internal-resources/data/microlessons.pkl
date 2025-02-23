@@ -2,24 +2,44 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+assessingCurrentState = new Template.Microlesson {
+  friendlyName = "Assessing the Current Network State"
+  dirName = "assessing-current-state"
   type = "Content"
   videoUrl = ""
 }
 
-exercise = new Template.Microlesson {
-  friendlyName = "Exercise"
-  dirName = "exercise"
+designingUpdates = new Template.Microlesson {
+  friendlyName = "Designing the Network Update Plan Outline"
+  dirName = "designing-updates"
   type = "Content"
   videoUrl = ""
 }
 
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
-  type = "Level Up Content"
+costBenefitAnalysis = new Template.Microlesson {
+  friendlyName = "Conducting a Cost-Benefit Analysis"
+  dirName = "cost-benefit-analysis"
+  type = "Content"
   videoUrl = ""
 }
 
+implementationPlan = new Template.Microlesson {
+  friendlyName = "Developing an Implementation Plan"
+  dirName = "implementation-plan"
+  type = "Content"
+  videoUrl = ""
+}
+
+businessProposal = new Template.Microlesson {
+  friendlyName = "Finalizing the Business Proposale"
+  dirName = "business-proposal"
+  type = "Content"
+  videoUrl = ""
+}
+
+preparingAndPresenting = new Template.Microlesson {
+  friendlyName = "Preparing and Presenting Your Proposal"
+  dirName = "preparing-and-presenting"
+  type = "Content"
+  videoUrl = ""
+}
