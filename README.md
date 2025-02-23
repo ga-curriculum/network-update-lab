@@ -1,47 +1,40 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Network Update Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+By the end of this lab students will:
+
+- Analyze a network's current state to identify necessary updates and improvements based on technical and business requirements.
+- Develop a detailed business proposal for a network update.
+- Present a network update proposal, effectively communicating the technical details, business justification, and implementation strategy.
+- Evaluate the impact of the proposed network update.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Assessing the Current Network State](./assessing-current-state/README.md)
+- [Designing the Network Update Plan Outline](./designing-updates/README.md)
+- [Conducting a Cost-Benefit Analysis](./cost-benefit-analysis/README.md)
+- [Developing an Implementation Plan](./implementation-plan/README.md)
+- [Finalizing the Business Proposal](./business-proposal/README.md)
+- [Preparing and Presenting Your Proposal](./preparing-and-presenting/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- None
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **240 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-update-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-update-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 

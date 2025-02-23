@@ -1,22 +1,23 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Network Update Lab</span>
 </h1>
-
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+By the end of this lab students will:
+
+- Analyze a network's current state to identify necessary updates and improvements based on technical and business requirements.
+- Develop a detailed business proposal for a network update.
+- Present a network update proposal, effectively communicating the technical details, business justification, and implementation strategy.
+- Evaluate the impact of the proposed network update.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
-
-## Level Up
-
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md)
+- [Assessing the Current Network State](../assessing-current-state/README.md)
+- [Designing the Network Update Plan Outline](../designing-updates/README.md)
+- [Conducting a Cost-Benefit Analysis](../cost-benefit-analysis/README.md)
+- [Developing an Implementation Plan](../implementation-plan/README.md)
+- [Finalizing the Business Proposal](../business-proposal/README.md)
+- [Preparing and Presenting Your Proposal](../preparing-and-presenting/README.md)
