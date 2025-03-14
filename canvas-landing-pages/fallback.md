@@ -16,7 +16,7 @@ In this lab, you will:
 ## Content
 
 - [Assess the Current Network State](../assess-the-current-network-state/README.md)
-- [Design the Network Update Plan Outline](../design-the-network-plan-outline/README.md)
+- [Design the Network Update Plan Outline](../design-the-network-update-plan-outline/README.md)
 - [Conduct a Cost-Benefit Analysis](../conduct-a-cost-benefit-analysis/README.md)
 - [Develop an Implementation Plan](../develop-an-implementation-plan/README.md)
 - [Finalize the Business Proposal](../finalize-the-business-proposal/README.md)
