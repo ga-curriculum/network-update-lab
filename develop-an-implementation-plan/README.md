@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Network Update Lab</span>
-  <span class="subhead">Developing an Implementation Plan</span>
+  <span class="subhead">Develop an Implementation Plan</span>
 </h1>
 
 Congrats, you've got a solid network update plan and a compelling business case to back it up! Now it's time to get down to brass tacks and figure out how you're actually going to make it happen.

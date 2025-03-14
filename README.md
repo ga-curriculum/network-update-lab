@@ -5,7 +5,7 @@
 
 ## About
 
-By the end of this lab students will:
+In this lab, you will:
 
 - Analyze a network's current state to identify necessary updates and improvements based on technical and business requirements.
 - Develop a detailed business proposal for a network update.
@@ -14,12 +14,17 @@ By the end of this lab students will:
 
 ## Content
 
-- [Assessing the Current Network State](./assessing-current-state/README.md)
-- [Designing the Network Update Plan Outline](./designing-updates/README.md)
-- [Conducting a Cost-Benefit Analysis](./cost-benefit-analysis/README.md)
-- [Developing an Implementation Plan](./implementation-plan/README.md)
-- [Finalizing the Business Proposal](./business-proposal/README.md)
-- [Preparing and Presenting Your Proposal](./preparing-and-presenting/README.md)
+- [Assess the Current Network State](./assess-the-current-network-state/README.md)
+- [Design the Network Update Plan Outline](./design-the-network-plan-outline/README.md)
+- [Conduct a Cost-Benefit Analysis](./conduct-a-cost-benefit-analysis/README.md)
+- [Develop an Implementation Plan](./develop-an-implementation-plan/README.md)
+- [Finalize the Business Proposal](./finalize-the-business-proposal/README.md)
+- [Prepare and Present Your Proposal](./prepare-and-present-your-proposal/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 

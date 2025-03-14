@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Network Update Lab</span>
-  <span class="subhead">Assessing the Current Network State</span>
+  <span class="subhead">Assess the Current Network State</span>
 </h1>
 
 ## Assessing the Current Network State

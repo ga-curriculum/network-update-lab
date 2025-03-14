@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Network Update Lab</span>
-  <span class="subhead">Finalizing the Business Proposal</span>
+  <span class="subhead">Finalize the Business Proposal</span>
 </h1>
 
 Alright, it's time to bring it all together! You've assessed General's current network, designed an update plan, built a financial case, and mapped out your implementation strategy. Now it's time to package all that hard work into a polished, professional business proposal.

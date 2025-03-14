@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Assessing the Current Network State",
-          "dirName": "assessing-current-state",
+          "friendlyName": "Assess the Current Network State",
+          "dirName": "assess-the-current-network-state",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Designing the Network Update Plan Outline",
-          "dirName": "designing-updates",
+          "friendlyName": "Design the Network Update Plan Outline",
+          "dirName": "design-the-network-update-plan-outline",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Conducting a Cost-Benefit Analysis",
-          "dirName": "cost-benefit-analysis",
+          "friendlyName": "Conduct a Cost-Benefit Analysis",
+          "dirName": "conduct-a-cost-benefit-analysis",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Developing an Implementation Plan",
-          "dirName": "implementation-plan",
+          "friendlyName": "Develop an Implementation Plan",
+          "dirName": "develop-an-implementation-plan",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -60,8 +60,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Finalizing the Business Proposale",
-          "dirName": "business-proposal",
+          "friendlyName": "Finalize the Business Proposal",
+          "dirName": "finalize-the-business-proposal",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -70,8 +70,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Preparing and Presenting Your Proposal",
-          "dirName": "preparing-and-presenting",
+          "friendlyName": "Prepare and Present Your Proposal",
+          "dirName": "prepare-and-present-your-proposal",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -103,14 +103,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Assessing the Current Network State",
-          "dirName": "assessing-current-state",
+          "friendlyName": "Assess the Current Network State",
+          "dirName": "assess-the-current-network-state",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +119,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Designing the Network Update Plan Outline",
-          "dirName": "designing-updates",
+          "friendlyName": "Design the Network Update Plan Outline",
+          "dirName": "design-the-network-update-plan-outline",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -129,8 +129,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Conducting a Cost-Benefit Analysis",
-          "dirName": "cost-benefit-analysis",
+          "friendlyName": "Conduct a Cost-Benefit Analysis",
+          "dirName": "conduct-a-cost-benefit-analysis",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -139,8 +139,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Developing an Implementation Plan",
-          "dirName": "implementation-plan",
+          "friendlyName": "Develop an Implementation Plan",
+          "dirName": "develop-an-implementation-plan",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -149,8 +149,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Finalizing the Business Proposale",
-          "dirName": "business-proposal",
+          "friendlyName": "Finalize the Business Proposal",
+          "dirName": "finalize-the-business-proposal",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -159,8 +159,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Preparing and Presenting Your Proposal",
-          "dirName": "preparing-and-presenting",
+          "friendlyName": "Prepare and Present Your Proposal",
+          "dirName": "prepare-and-present-your-proposal",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

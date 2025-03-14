@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Network Update Lab</span>
-  <span class="subhead">Conducting a Cost-Benefit Analysis</span>
+  <span class="subhead">Conduct a Cost-Benefit Analysis</span>
 </h1>
 
 As much as we may love shiny new gadgets and cutting-edge solutions, we can't forget that at the end of the day, this is a business decision. General isn't going to green-light your network update plan unless you can show them it's worth the investment.

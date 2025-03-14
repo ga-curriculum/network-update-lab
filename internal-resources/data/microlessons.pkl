@@ -2,44 +2,44 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-assessingCurrentState = new Template.Microlesson {
-  friendlyName = "Assessing the Current Network State"
-  dirName = "assessing-current-state"
+assessTheCurrentNetworkState = new Template.Microlesson {
+  friendlyName = "Assess the Current Network State"
+  dirName = "assess-the-current-network-state"
   type = "Content"
   videoUrl = ""
 }
 
-designingUpdates = new Template.Microlesson {
-  friendlyName = "Designing the Network Update Plan Outline"
-  dirName = "designing-updates"
+designTheNetworkUpdatePlanOutline = new Template.Microlesson {
+  friendlyName = "Design the Network Update Plan Outline"
+  dirName = "design-the-network-update-plan-outline"
   type = "Content"
   videoUrl = ""
 }
 
-costBenefitAnalysis = new Template.Microlesson {
-  friendlyName = "Conducting a Cost-Benefit Analysis"
-  dirName = "cost-benefit-analysis"
+conductACostBenefitAnalysis = new Template.Microlesson {
+  friendlyName = "Conduct a Cost-Benefit Analysis"
+  dirName = "conduct-a-cost-benefit-analysis"
   type = "Content"
   videoUrl = ""
 }
 
-implementationPlan = new Template.Microlesson {
-  friendlyName = "Developing an Implementation Plan"
-  dirName = "implementation-plan"
+developAnImplementationPlan = new Template.Microlesson {
+  friendlyName = "Develop an Implementation Plan"
+  dirName = "develop-an-implementation-plan"
   type = "Content"
   videoUrl = ""
 }
 
-businessProposal = new Template.Microlesson {
-  friendlyName = "Finalizing the Business Proposale"
-  dirName = "business-proposal"
+finalizeTheBusinessProposal = new Template.Microlesson {
+  friendlyName = "Finalize the Business Proposal"
+  dirName = "finalize-the-business-proposal"
   type = "Content"
   videoUrl = ""
 }
 
-preparingAndPresenting = new Template.Microlesson {
-  friendlyName = "Preparing and Presenting Your Proposal"
-  dirName = "preparing-and-presenting"
+prepareAndPresentYourProposal = new Template.Microlesson {
+  friendlyName = "Prepare and Present Your Proposal"
+  dirName = "prepare-and-present-your-proposal"
   type = "Content"
   videoUrl = ""
 }

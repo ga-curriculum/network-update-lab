@@ -20,28 +20,27 @@ repo {
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      mls.assessTheCurrentNetworkState
+      mls.designTheNetworkUpdatePlanOutline
+      mls.conductACostBenefitAnalysis
+      mls.developAnImplementationPlan
+      mls.finalizeTheBusinessProposal
+      mls.prepareAndPresentYourProposal
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.assessingCurrentState
-      mls.designingUpdates
-      mls.costBenefitAnalysis
-      mls.implementationPlan
-      mls.businessProposal
-      mls.preparingAndPresenting
-    }
-  }
-    new {
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.assessingCurrentState
-      mls.designingUpdates
-      mls.costBenefitAnalysis
-      mls.implementationPlan
-      mls.businessProposal
-      mls.preparingAndPresenting
+      mls.assessTheCurrentNetworkState
+      mls.designTheNetworkUpdatePlanOutline
+      mls.conductACostBenefitAnalysis
+      mls.developAnImplementationPlan
+      mls.finalizeTheBusinessProposal
+      mls.prepareAndPresentYourProposal
     }
   }
 }

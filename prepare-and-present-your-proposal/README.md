@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Network Update Lab</span>
-  <span class="subhead">Preparing and Presenting Your Proposal</span>
+  <span class="subhead">Prepare and Present Your Proposal</span>
 </h1>
 
 It's showtime! You've got a killer proposal document ready to go - now it's time to present it to General's leadership team and key stakeholders. This is your chance to bring your vision to life and secure the buy-in and resources you need to make it a reality.

@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Network Update Lab</span>
-  <span class="subhead">Designing the Network Update Plan Outline</span>
+  <span class="subhead">Design the Network Update Plan Outline</span>
 </h1>
 
 Now that you've got a solid understanding of General's current network state, it's time to start sketching out your master plan.
