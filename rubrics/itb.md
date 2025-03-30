@@ -26,6 +26,6 @@ The following requirements describe the necessary deliverables for the Network U
 | The business proposal document contains a **Cost-benefit analysis** section.                                                                        | 4      |
 | The business proposal document contains an **Implementation plan** section.                                                                         | 4      |
 | The business proposal document contains a **Conclusion and next steps** section.                                                                    | 4      |
-| The business proposal document is formatted in a clear manner                                                                                       | 4      |
+| The business proposal document is formatted in a clear manner.                                                                                      | 4      |
 | The business proposal document uses clear and professional language.                                                                                | 5      |
 | **Total possible points**                                                                                                                           | 100    |
