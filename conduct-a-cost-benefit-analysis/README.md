@@ -3,34 +3,38 @@
   <span class="subhead">Conduct a Cost-Benefit Analysis</span>
 </h1>
 
-As much as we may love shiny new gadgets and cutting-edge solutions, we can't forget that at the end of the day, this is a business decision. General isn't going to green-light your network update plan unless you can show them it's worth the investment.
+## Business first
 
-That's where a cost-benefit analysis comes in. For each component of your proposed update, you'll need to estimate:
+As much as we may love shiny new gadgets and cutting-edge solutions, we can't forget that this is a business decision. General isn't going to green-light your network update plan unless you can show them it's worth the investment.
 
-**Costs:**
+That's where a cost-benefit analysis comes in. For each component of your proposed update, you'll need to estimate its costs and benefits. This will help you build a solid financial case for your proposal.
 
-- Hardware and software procurement (e.g. new switches, licenses, subscriptions)
+### Costs
 
-- Installation and configuration labor (both internal IT staff time and any outside professional services)
+- Hardware and software procurement (for example, new switches, licenses, subscriptions).
 
-- Training and change management for IT staff and end-users
+- Installation and configuration labor (both internal IT staff time and any outside professional services).
 
-- Ongoing maintenance and support contracts
+- Training and change management for IT staff and end-users.
 
-**Benefits:**
+- Ongoing maintenance and support contracts.
 
-- Improved network performance and reliability (e.g. reduced downtime, faster app response times)
+### Benefits
 
-- Enhanced security posture (e.g. fewer breaches, quicker incident response)
+- Improved network performance and reliability (for example, reduced downtime and faster app response times).
 
-- Increased operational efficiency (e.g. less time spent on manual config and troubleshooting)
+- Enhanced security posture (for example, fewer breaches, quicker incident response).
 
-- Enabling of new business capabilities and revenue streams (e.g. faster time-to-market for new apps and services)
+- Increased operational efficiency (for example, less time spent on manual config and troubleshooting).
 
-- Reduced risk of compliance violations and associated fines/remediation costs
+- Enabling new business capabilities and revenue streams (for example, faster time-to-market for new apps and services).
+
+- Reduced risk of compliance violations and associated fines/remediation costs.
+
+## End goal
 
 The key is to quantify these factors wherever possible. If you're projecting a 25% increase in network throughput, translate that into productivity gains or customer satisfaction metrics. If you're expecting to reduce manual troubleshooting by 50%, calculate the labor savings.
 
-Once you've got all the figures, it's time to crunch the numbers and see how the costs and benefits balance out over time. Calculate key metrics like Return on Investment (ROI) and payback period.
+Once you've got all the figures, it's time to crunch the numbers and see how the costs and benefits balance out over time. Calculate key metrics like return on investment (ROI) and payback period.
 
 The goal is to build a clear financial case for your network update proposal. You want to show General's leadership that this isn't just a tech project - it's a strategic business move that will pay dividends for years to come.
