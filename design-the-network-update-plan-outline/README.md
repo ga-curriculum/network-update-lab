@@ -3,6 +3,8 @@
   <span class="subhead">Design the Network Update Plan Outline</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to outline a network update plan based on the current state assessment and business requirements.
+
 ## Outline the update
 
 Now that you understand General's current network setup and goals, it's time to start outlining your vision for their network upgrade.

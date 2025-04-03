@@ -3,6 +3,8 @@
   <span class="subhead">Prepare and Present Your Proposal</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to prepare and present a network update proposal, effectively communicating the technical details, business justification, and implementation strategy.
+
 ## It's showtime!
 
 You've got a thorough proposal document ready to go - now it's time to present it to General's leadership team and key stakeholders. This is your chance to bring your vision to life and secure the buy-in and resources you need to make it a reality.

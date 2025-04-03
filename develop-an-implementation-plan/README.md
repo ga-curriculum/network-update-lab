@@ -3,6 +3,8 @@
   <span class="subhead">Develop an Implementation Plan</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to develop a detailed implementation plan for a network update proposal, including tasks, timelines, resources, and risk management strategies.
+
 ## How should your plan be implemented?
 
 Congrats, you've got a solid network update plan and a compelling business case to back it up! Now, it's time to figure out how you will make it happen.

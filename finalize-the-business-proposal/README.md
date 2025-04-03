@@ -3,6 +3,8 @@
   <span class="subhead">Finalize the Business Proposal</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to compile a comprehensive business proposal for a network update, including an executive summary, current state assessment, proposed network update plan, cost-benefit analysis, implementation plan, and conclusion.
+
 ## Combine your findings into a final proposal
 
 Alright, it's time to bring it all together! You've assessed General's current network, designed an update plan, built a financial case, and mapped out your implementation strategy. Now, it's time to package all that hard work into a polished, professional business proposal.

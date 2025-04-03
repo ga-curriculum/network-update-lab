@@ -3,6 +3,8 @@
   <span class="subhead">Conduct a Cost-Benefit Analysis</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to analyze the costs and benefits of a network update proposal, providing a clear financial justification for a network update project.
+
 ## Business first
 
 As much as we may love shiny new gadgets and cutting-edge solutions, we can't forget that this is a business decision. General isn't going to green-light your network update plan unless you can show them it's worth the investment.

@@ -3,6 +3,8 @@
   <span class="subhead">Assess the Current Network State</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to assess the current state of a network and identify necessary updates and improvements based on technical and business requirements.
+
 ## Introduction
 
 Our client, General Inc., has tasked us with bringing their network infrastructure into the 21st century. They want faster speeds, better security, and the ability to support the shiny new applications their teams are dreaming up.
